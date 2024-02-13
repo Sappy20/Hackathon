@@ -1,0 +1,41 @@
+14:06:24.712 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:06:24.728 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Navigated to the Loan Calculators Page for UI Testing  *******
+14:06:28.083 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ==================================================  *******
+14:06:28.088 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Working on the 1st TYPE of CALCULATOR  *******
+14:06:28.089 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****   WORKING on LOAN AMOUNT CALCULATOR  *******
+14:06:28.093 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:06:28.093 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ******  ________________________________  ********
+14:06:28.338 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validation Of Loan Amount Calculator links   *******
+14:06:28.338 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating to check whether Element is visible and  clickable or not *******
+14:06:28.338 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:06:28.343 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  _______________________________ *******
+14:06:28.427 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validation of Loan Amount Calculators link  *******
+14:06:28.427 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating to check whether Element is visible and  clickable or not *******
+14:06:28.428 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:06:28.431 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________  *******
+14:06:28.530 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validation of Loan Tennure Calculator link *******
+14:06:28.531 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating to check whether Element is visible and  clickable or not *******
+14:06:28.531 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:06:28.537 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validation of Loan Interest Calculator link   *******
+14:06:28.625 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating to check whether Element is visible and  clickable or not *******
+14:06:28.625 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:06:28.629 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:06:28.630 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:06:28.630 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the value for Fees and Charges charged for LOAN initiation *******
+14:06:29.012 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________________________________ *******
+14:06:29.012 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the DATA stored in the inputbox *******
+14:06:29.012 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Moving on to the next calculator page  *******
+14:06:29.012 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:06:29.259 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:06:29.259 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** EMI Calculator page is opened for Calculation  *******
+14:06:29.259 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****   ==================================================  *******
+14:06:29.263 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ____________________________________  *******
+14:06:29.267 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Moving on to the next page for LOAN Tennure Calculator  *******
+14:06:29.267 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** LOAN tenure Calculator page is opened *******
+14:06:29.475 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****   =============================================   *******
+14:06:29.481 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Navigate to next Type of Calculator by clicking on the link *******
+14:06:29.481 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Clicking on the INTEREST CALCULATOR *******
+14:06:29.697 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ___________________________________ *******
+14:06:29.697 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** INTEREST CALCULATOR page is opened  *******
+14:06:29.697 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** =========================================================== *******
+14:06:29.704 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** The final outcome is stored and validated after the calculation  *******

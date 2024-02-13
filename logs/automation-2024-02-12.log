@@ -1,0 +1,42 @@
+22:31:49.451 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the DATA stored in the inputbox *******
+22:31:49.458 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Moving on to the next calculator page  *******
+22:31:49.458 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+22:31:49.642 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+22:31:49.642 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** EMI Calculator page is opened for Calculation  *******
+22:31:49.642 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****   ==================================================  *******
+22:31:49.923 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Working on the Second type of Calculator page  *******
+22:31:49.924 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** WORKING ON EMI CALCULATOR  *******
+22:31:49.945 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________________________ *******
+22:31:49.945 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the Loan Amount in the inputbox *******
+22:31:50.228 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the data shown finally in the inputbox *******
+22:31:50.228 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________________  ******
+22:31:50.457 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Setting the INTEREST RATE in the inputbox  *******
+22:31:50.458 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________ *******
+22:31:50.821 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the results shown in the Interest Rate inputbox *******
+22:31:50.852 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________________________ *******
+22:31:51.086 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the number of YEARS for which the LOAN is being applied for  *******
+22:31:51.396 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________ *******
+22:31:51.454 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Returning the values stored in the inputbox  *******
+22:31:51.673 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ______________________________ *******
+22:31:52.048 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the FEES and CHARGES for applying for the LOAN  *******
+22:31:52.049 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+22:31:52.081 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Returning the Value stored in the inputbox *******
+22:31:52.081 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+22:31:52.342 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ____________________________________  *******
+22:31:52.343 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Moving on to the next page for LOAN Tennure Calculator  *******
+22:31:52.343 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** LOAN tenure Calculator page is opened *******
+22:31:52.528 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****   =============================================   *******
+22:31:52.809 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Working on the THIRD type Calculator  *******
+22:31:52.809 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** LOAN Tenure Calculator TESTING  *******
+22:31:52.824 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________ *******
+22:31:52.824 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the LOAN Amount in the inputbox *******
+22:31:56.016 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ______________________________ *******
+22:31:56.068 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the result shown in the inputbox *******
+22:31:56.277 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+22:31:56.277 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the EMI Amount in the inputbox  *******
+22:31:56.731 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________ *******
+22:31:56.769 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the Amountnstores in the inputbox  *******
+22:31:57.033 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  __________________________________ *******
+22:31:57.034 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  Providing  the Interest Rate  to the inputbox  *******
+22:31:57.450 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________ *******
+22:31:57.483 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Returning the interest rate value inside that inutbox  *******

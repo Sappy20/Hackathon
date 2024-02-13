@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke_Testing]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Grouping Functionalities(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="TestCases.UI_CheckForInterestRATECalc">
+        <methods>
+          <include name="needTo_NavigateToNxtPage"/>
+          <include name="setup"/>
+          <include name="validation_Of_EMI_Calculator"/>
+          <include name="do_NavigateToNextPAGE"/>
+          <include name="load_EMICalculator_LINK"/>
+          <include name="validationOf_Loan_Tenure_Calculator"/>
+          <include name="clickONCarloan"/>
+          <include name="do_validation_Result"/>
+          <include name="validationOf_Loan_Interest_Calculator"/>
+          <include name="open_webpage"/>
+          <include name="does_setingLoan_FeesAndCharges"/>
+          <include name="validationOf_Loan_Amount_Calculator"/>
+          <include name="Navigation_toNextPage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCases.UI_CheckForInterestRATECalc -->
+    </classes>
+  </test> <!-- Grouping Functionalities(failed) -->
+</suite> <!-- Failed suite [Smoke_Testing] -->

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="45" passed="45" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-12T22:30:11 IST" name="Suite" finished-at="2024-02-12T22:32:03 IST" duration-ms="111632">
+    <groups>
+      <group name="regression">
+        <method signature="GoogleHome_Test.search_action()[pri:1, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search_action" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.search()[pri:2, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.open_webpage()[pri:3, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="open_webpage" class="TestCases.GoogleHome_Test"/>
+        <method signature="EMI_CalculatorHomePage_TEST.clickONCarloan()[pri:4, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="clickONCarloan" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.refreshPage()[pri:5, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="refreshPage" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.load_EMICalculator_LINK()[pri:6, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="load_EMICalculator_LINK" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="HomeLoanEMICalculator_Test.HomeLoan_Validation()[pri:7, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="HomeLoan_Validation" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setHomeValue_InCalculator()[pri:9, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setHomeValue_InCalculator" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setDownPayment_InCalculator()[pri:10, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setDownPayment_InCalculator" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setting_LoanInsurance_Amount()[pri:11, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setting_LoanInsurance_Amount" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_Amt_Validation()[pri:12, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_Amt_Validation" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.set_Interest_Rate()[pri:13, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="set_Interest_Rate" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Setting_Loan_Duration()[pri:14, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Setting_Loan_Duration" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_charges_set()[pri:15, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_charges_set" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_StartMonthAndYear_calenderOperations()[pri:16, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_StartMonthAndYear_calenderOperations" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.LoanStartMonthAndYear_setting()[pri:17, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="LoanStartMonthAndYear_setting" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setting_OneTimeExpenses()[pri:18, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setting_OneTimeExpenses" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.propertyTaxesperyear()[pri:19, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="propertyTaxesperyear" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.HomeInsurancePerYear_setting()[pri:20, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="HomeInsurancePerYear_setting" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.SettingMaintenanceExpenses()[pri:21, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="SettingMaintenanceExpenses" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.implementing_ExcelMethods_toStoreData()[pri:22, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="implementing_ExcelMethods_toStoreData" class="TestCases.HomeLoanEMICalculator_Test"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="GoogleHome_Test.search_action()[pri:1, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search_action" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.search()[pri:2, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.open_webpage()[pri:3, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="open_webpage" class="TestCases.GoogleHome_Test"/>
+        <method signature="EMI_CalculatorHomePage_TEST.clickONCarloan()[pri:4, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="clickONCarloan" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.load_EMICalculator_LINK()[pri:6, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="load_EMICalculator_LINK" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="HomeLoanEMICalculator_Test.Navigation_toNextPage()[pri:23, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Navigation_toNextPage" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validation_Of_EMI_Calculator()[pri:24, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validation_Of_EMI_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Amount_Calculator()[pri:25, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Amount_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Tenure_Calculator()[pri:26, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Tenure_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Interest_Calculator()[pri:27, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Interest_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_FeesAndCharges()[pri:31, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_FeesAndCharges" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_NavigateToNxtPage()[pri:36, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_NavigateToNxtPage" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_NavigateToNextPAGE()[pri:41, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_NavigateToNextPAGE" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_validation_Result()[pri:46, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_validation_Result" class="TestCases.UI_CheckForInterestRATECalc"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="GoogleHome_Test.search_action()[pri:1, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search_action" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.search()[pri:2, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.open_webpage()[pri:3, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="open_webpage" class="TestCases.GoogleHome_Test"/>
+        <method signature="EMI_CalculatorHomePage_TEST.clickONCarloan()[pri:4, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="clickONCarloan" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.refreshPage()[pri:5, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="refreshPage" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.load_EMICalculator_LINK()[pri:6, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="load_EMICalculator_LINK" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="HomeLoanEMICalculator_Test.HomeLoan_Validation()[pri:7, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="HomeLoan_Validation" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setHomeValue_InCalculator()[pri:9, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setHomeValue_InCalculator" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setDownPayment_InCalculator()[pri:10, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setDownPayment_InCalculator" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setting_LoanInsurance_Amount()[pri:11, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setting_LoanInsurance_Amount" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_Amt_Validation()[pri:12, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_Amt_Validation" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.set_Interest_Rate()[pri:13, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="set_Interest_Rate" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Setting_Loan_Duration()[pri:14, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Setting_Loan_Duration" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_charges_set()[pri:15, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_charges_set" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_StartMonthAndYear_calenderOperations()[pri:16, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_StartMonthAndYear_calenderOperations" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.LoanStartMonthAndYear_setting()[pri:17, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="LoanStartMonthAndYear_setting" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setting_OneTimeExpenses()[pri:18, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setting_OneTimeExpenses" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.propertyTaxesperyear()[pri:19, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="propertyTaxesperyear" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.HomeInsurancePerYear_setting()[pri:20, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="HomeInsurancePerYear_setting" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.SettingMaintenanceExpenses()[pri:21, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="SettingMaintenanceExpenses" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.implementing_ExcelMethods_toStoreData()[pri:22, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="implementing_ExcelMethods_toStoreData" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Navigation_toNextPage()[pri:23, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Navigation_toNextPage" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validation_Of_EMI_Calculator()[pri:24, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validation_Of_EMI_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Amount_Calculator()[pri:25, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Amount_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Tenure_Calculator()[pri:26, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Tenure_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Interest_Calculator()[pri:27, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Interest_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_Amount()[pri:28, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_Amount" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_Interest_Rate()[pri:29, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_Interest_Rate" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.LoanTennure_CalculatorIs_Present_Validation()[pri:30, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="LoanTennure_CalculatorIs_Present_Validation" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_FeesAndCharges()[pri:31, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_FeesAndCharges" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_Amount()[pri:32, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_Amount" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_Interest_Rate()[pri:33, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_Interest_Rate" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_Tennure()[pri:34, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_Tennure" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_FeesAndCharges()[pri:35, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_FeesAndCharges" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_NavigateToNxtPage()[pri:36, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_NavigateToNxtPage" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsLoan_Amount()[pri:37, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsLoan_Amount" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsEMI_Amount()[pri:38, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsEMI_Amount" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsLoan_AmountInterest_RATE()[pri:39, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsLoan_AmountInterest_RATE" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsFees_AND_Charges_Amount()[pri:40, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsFees_AND_Charges_Amount" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_NavigateToNextPAGE()[pri:41, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_NavigateToNextPAGE" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_settingLoan_Amount()[pri:42, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_settingLoan_Amount" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_settingEMI_Amount()[pri:43, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_settingEMI_Amount" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_setingLoan_Tennure()[pri:44, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setingLoan_Tennure" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_setingLoan_FeesAndCharges()[pri:45, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setingLoan_FeesAndCharges" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_validation_Result()[pri:46, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_validation_Result" class="TestCases.UI_CheckForInterestRATECalc"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="GoogleHome_Test.search_action()[pri:1, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search_action" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.search()[pri:2, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="search" class="TestCases.GoogleHome_Test"/>
+        <method signature="GoogleHome_Test.open_webpage()[pri:3, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="open_webpage" class="TestCases.GoogleHome_Test"/>
+        <method signature="EMI_CalculatorHomePage_TEST.clickONCarloan()[pri:4, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="clickONCarloan" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.refreshPage()[pri:5, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="refreshPage" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="EMI_CalculatorHomePage_TEST.load_EMICalculator_LINK()[pri:6, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="load_EMICalculator_LINK" class="TestCases.EMI_CalculatorHomePage_TEST"/>
+        <method signature="HomeLoanEMICalculator_Test.HomeLoan_Validation()[pri:7, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="HomeLoan_Validation" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setHomeValue_InCalculator()[pri:9, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setHomeValue_InCalculator" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setDownPayment_InCalculator()[pri:10, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setDownPayment_InCalculator" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setting_LoanInsurance_Amount()[pri:11, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setting_LoanInsurance_Amount" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_Amt_Validation()[pri:12, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_Amt_Validation" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.set_Interest_Rate()[pri:13, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="set_Interest_Rate" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Setting_Loan_Duration()[pri:14, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Setting_Loan_Duration" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_charges_set()[pri:15, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_charges_set" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Loan_StartMonthAndYear_calenderOperations()[pri:16, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Loan_StartMonthAndYear_calenderOperations" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.LoanStartMonthAndYear_setting()[pri:17, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="LoanStartMonthAndYear_setting" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.setting_OneTimeExpenses()[pri:18, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="setting_OneTimeExpenses" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.propertyTaxesperyear()[pri:19, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="propertyTaxesperyear" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.HomeInsurancePerYear_setting()[pri:20, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="HomeInsurancePerYear_setting" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.SettingMaintenanceExpenses()[pri:21, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="SettingMaintenanceExpenses" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.implementing_ExcelMethods_toStoreData()[pri:22, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="implementing_ExcelMethods_toStoreData" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="HomeLoanEMICalculator_Test.Navigation_toNextPage()[pri:23, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="Navigation_toNextPage" class="TestCases.HomeLoanEMICalculator_Test"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validation_Of_EMI_Calculator()[pri:24, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validation_Of_EMI_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Amount_Calculator()[pri:25, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Amount_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Tenure_Calculator()[pri:26, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Tenure_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.validationOf_Loan_Interest_Calculator()[pri:27, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="validationOf_Loan_Interest_Calculator" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_Amount()[pri:28, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_Amount" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_Interest_Rate()[pri:29, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_Interest_Rate" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.LoanTennure_CalculatorIs_Present_Validation()[pri:30, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="LoanTennure_CalculatorIs_Present_Validation" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanAmountCalculators.does_setingLoan_FeesAndCharges()[pri:31, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="does_setingLoan_FeesAndCharges" class="TestCases.UI_CheckForLoanAmountCalculators"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_Amount()[pri:32, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_Amount" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_Interest_Rate()[pri:33, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_Interest_Rate" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_Tennure()[pri:34, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_Tennure" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_setLoan_FeesAndCharges()[pri:35, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_setLoan_FeesAndCharges" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanEMICalc.needTo_NavigateToNxtPage()[pri:36, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="needTo_NavigateToNxtPage" class="TestCases.UI_CheckForLoanEMICalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsLoan_Amount()[pri:37, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsLoan_Amount" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsEMI_Amount()[pri:38, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsEMI_Amount" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsLoan_AmountInterest_RATE()[pri:39, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsLoan_AmountInterest_RATE" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_setsFees_AND_Charges_Amount()[pri:40, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setsFees_AND_Charges_Amount" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForLoanTennureCalc.do_NavigateToNextPAGE()[pri:41, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_NavigateToNextPAGE" class="TestCases.UI_CheckForLoanTennureCalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_settingLoan_Amount()[pri:42, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_settingLoan_Amount" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_settingEMI_Amount()[pri:43, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_settingEMI_Amount" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_setingLoan_Tennure()[pri:44, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setingLoan_Tennure" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_setingLoan_FeesAndCharges()[pri:45, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_setingLoan_FeesAndCharges" class="TestCases.UI_CheckForInterestRATECalc"/>
+        <method signature="UI_CheckForInterestRATECalc.do_validation_Result()[pri:46, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" name="do_validation_Result" class="TestCases.UI_CheckForInterestRATECalc"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-02-12T22:30:11 IST" name="Main" finished-at="2024-02-12T22:32:03 IST" duration-ms="111632">
+      <class name="TestCases.UI_CheckForInterestRATECalc">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:11 IST" name="setup" finished-at="2024-02-12T22:30:25 IST" duration-ms="14035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search_action()[pri:1, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:25 IST" name="search_action" finished-at="2024-02-12T22:30:27 IST" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_action -->
+        <test-method signature="search()[pri:2, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:27 IST" name="search" finished-at="2024-02-12T22:30:28 IST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="open_webpage()[pri:3, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:30 IST" name="open_webpage" finished-at="2024-02-12T22:30:42 IST" duration-ms="12162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_webpage -->
+        <test-method signature="clickONCarloan()[pri:4, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:43 IST" name="clickONCarloan" finished-at="2024-02-12T22:30:43 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickONCarloan -->
+        <test-method signature="refreshPage()[pri:5, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:43 IST" name="refreshPage" finished-at="2024-02-12T22:30:45 IST" duration-ms="1973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refreshPage -->
+        <test-method signature="load_EMICalculator_LINK()[pri:6, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:46 IST" name="load_EMICalculator_LINK" finished-at="2024-02-12T22:30:55 IST" duration-ms="9187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load_EMICalculator_LINK -->
+        <test-method signature="HomeLoan_Validation()[pri:7, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:30:57 IST" name="HomeLoan_Validation" finished-at="2024-02-12T22:31:06 IST" duration-ms="8416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoan_Validation -->
+        <test-method signature="setHomeValue_InCalculator()[pri:9, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:06 IST" name="setHomeValue_InCalculator" finished-at="2024-02-12T22:31:06 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomeValue_InCalculator -->
+        <test-method signature="setDownPayment_InCalculator()[pri:10, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:07 IST" name="setDownPayment_InCalculator" finished-at="2024-02-12T22:31:08 IST" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDownPayment_InCalculator -->
+        <test-method signature="setting_LoanInsurance_Amount()[pri:11, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:08 IST" name="setting_LoanInsurance_Amount" finished-at="2024-02-12T22:31:09 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_LoanInsurance_Amount -->
+        <test-method signature="Loan_Amt_Validation()[pri:12, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:09 IST" name="Loan_Amt_Validation" finished-at="2024-02-12T22:31:09 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan_Amt_Validation -->
+        <test-method signature="set_Interest_Rate()[pri:13, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:09 IST" name="set_Interest_Rate" finished-at="2024-02-12T22:31:10 IST" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_Interest_Rate -->
+        <test-method signature="Setting_Loan_Duration()[pri:14, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:10 IST" name="Setting_Loan_Duration" finished-at="2024-02-12T22:31:11 IST" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setting_Loan_Duration -->
+        <test-method signature="Loan_charges_set()[pri:15, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:11 IST" name="Loan_charges_set" finished-at="2024-02-12T22:31:14 IST" duration-ms="2630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan_charges_set -->
+        <test-method signature="Loan_StartMonthAndYear_calenderOperations()[pri:16, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:14 IST" name="Loan_StartMonthAndYear_calenderOperations" finished-at="2024-02-12T22:31:15 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan_StartMonthAndYear_calenderOperations -->
+        <test-method signature="LoanStartMonthAndYear_setting()[pri:17, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:15 IST" name="LoanStartMonthAndYear_setting" finished-at="2024-02-12T22:31:16 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanStartMonthAndYear_setting -->
+        <test-method signature="setting_OneTimeExpenses()[pri:18, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:16 IST" name="setting_OneTimeExpenses" finished-at="2024-02-12T22:31:18 IST" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_OneTimeExpenses -->
+        <test-method signature="propertyTaxesperyear()[pri:19, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:19 IST" name="propertyTaxesperyear" finished-at="2024-02-12T22:31:21 IST" duration-ms="2470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyTaxesperyear -->
+        <test-method signature="HomeInsurancePerYear_setting()[pri:20, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:21 IST" name="HomeInsurancePerYear_setting" finished-at="2024-02-12T22:31:25 IST" duration-ms="3378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeInsurancePerYear_setting -->
+        <test-method signature="SettingMaintenanceExpenses()[pri:21, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:25 IST" name="SettingMaintenanceExpenses" finished-at="2024-02-12T22:31:25 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SettingMaintenanceExpenses -->
+        <test-method signature="implementing_ExcelMethods_toStoreData()[pri:22, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:25 IST" name="implementing_ExcelMethods_toStoreData" finished-at="2024-02-12T22:31:41 IST" duration-ms="15248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- implementing_ExcelMethods_toStoreData -->
+        <test-method signature="Navigation_toNextPage()[pri:23, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:41 IST" name="Navigation_toNextPage" finished-at="2024-02-12T22:31:45 IST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigation_toNextPage -->
+        <test-method signature="validation_Of_EMI_Calculator()[pri:24, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:45 IST" name="validation_Of_EMI_Calculator" finished-at="2024-02-12T22:31:45 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation_Of_EMI_Calculator -->
+        <test-method signature="validationOf_Loan_Amount_Calculator()[pri:25, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:46 IST" name="validationOf_Loan_Amount_Calculator" finished-at="2024-02-12T22:31:46 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationOf_Loan_Amount_Calculator -->
+        <test-method signature="validationOf_Loan_Tenure_Calculator()[pri:26, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:46 IST" name="validationOf_Loan_Tenure_Calculator" finished-at="2024-02-12T22:31:46 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationOf_Loan_Tenure_Calculator -->
+        <test-method signature="validationOf_Loan_Interest_Calculator()[pri:27, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:46 IST" name="validationOf_Loan_Interest_Calculator" finished-at="2024-02-12T22:31:46 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationOf_Loan_Interest_Calculator -->
+        <test-method signature="does_setingLoan_Amount()[pri:28, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:47 IST" name="does_setingLoan_Amount" finished-at="2024-02-12T22:31:47 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- does_setingLoan_Amount -->
+        <test-method signature="does_setingLoan_Interest_Rate()[pri:29, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:47 IST" name="does_setingLoan_Interest_Rate" finished-at="2024-02-12T22:31:48 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- does_setingLoan_Interest_Rate -->
+        <test-method signature="LoanTennure_CalculatorIs_Present_Validation()[pri:30, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:48 IST" name="LoanTennure_CalculatorIs_Present_Validation" finished-at="2024-02-12T22:31:48 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanTennure_CalculatorIs_Present_Validation -->
+        <test-method signature="does_setingLoan_FeesAndCharges()[pri:31, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:49 IST" name="does_setingLoan_FeesAndCharges" finished-at="2024-02-12T22:31:49 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- does_setingLoan_FeesAndCharges -->
+        <test-method signature="needTo_setLoan_Amount()[pri:32, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:49 IST" name="needTo_setLoan_Amount" finished-at="2024-02-12T22:31:50 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needTo_setLoan_Amount -->
+        <test-method signature="needTo_setLoan_Interest_Rate()[pri:33, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:50 IST" name="needTo_setLoan_Interest_Rate" finished-at="2024-02-12T22:31:50 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needTo_setLoan_Interest_Rate -->
+        <test-method signature="needTo_setLoan_Tennure()[pri:34, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:51 IST" name="needTo_setLoan_Tennure" finished-at="2024-02-12T22:31:51 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needTo_setLoan_Tennure -->
+        <test-method signature="needTo_setLoan_FeesAndCharges()[pri:35, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:51 IST" name="needTo_setLoan_FeesAndCharges" finished-at="2024-02-12T22:31:52 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needTo_setLoan_FeesAndCharges -->
+        <test-method signature="needTo_NavigateToNxtPage()[pri:36, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:52 IST" name="needTo_NavigateToNxtPage" finished-at="2024-02-12T22:31:52 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needTo_NavigateToNxtPage -->
+        <test-method signature="do_setsLoan_Amount()[pri:37, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:52 IST" name="do_setsLoan_Amount" finished-at="2024-02-12T22:31:56 IST" duration-ms="3260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_setsLoan_Amount -->
+        <test-method signature="do_setsEMI_Amount()[pri:38, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:56 IST" name="do_setsEMI_Amount" finished-at="2024-02-12T22:31:56 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_setsEMI_Amount -->
+        <test-method signature="do_setsLoan_AmountInterest_RATE()[pri:39, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:57 IST" name="do_setsLoan_AmountInterest_RATE" finished-at="2024-02-12T22:31:57 IST" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_setsLoan_AmountInterest_RATE -->
+        <test-method signature="do_setsFees_AND_Charges_Amount()[pri:40, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:57 IST" name="do_setsFees_AND_Charges_Amount" finished-at="2024-02-12T22:31:58 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_setsFees_AND_Charges_Amount -->
+        <test-method signature="do_NavigateToNextPAGE()[pri:41, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:58 IST" name="do_NavigateToNextPAGE" finished-at="2024-02-12T22:31:58 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_NavigateToNextPAGE -->
+        <test-method signature="do_settingLoan_Amount()[pri:42, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:59 IST" name="do_settingLoan_Amount" finished-at="2024-02-12T22:31:59 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_settingLoan_Amount -->
+        <test-method signature="do_settingEMI_Amount()[pri:43, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:31:59 IST" name="do_settingEMI_Amount" finished-at="2024-02-12T22:31:59 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_settingEMI_Amount -->
+        <test-method signature="do_setingLoan_Tennure()[pri:44, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:32:00 IST" name="do_setingLoan_Tennure" finished-at="2024-02-12T22:32:00 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_setingLoan_Tennure -->
+        <test-method signature="do_setingLoan_FeesAndCharges()[pri:45, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:32:00 IST" name="do_setingLoan_FeesAndCharges" finished-at="2024-02-12T22:32:01 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_setingLoan_FeesAndCharges -->
+        <test-method signature="do_validation_Result()[pri:46, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:32:01 IST" name="do_validation_Result" finished-at="2024-02-12T22:32:01 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_validation_Result -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.UI_CheckForInterestRATECalc@30c0ccff]" started-at="2024-02-12T22:32:01 IST" name="tearDown" finished-at="2024-02-12T22:32:03 IST" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.UI_CheckForInterestRATECalc -->
+    </test> <!-- Main -->
+  </suite> <!-- Suite -->
+</testng-results>
