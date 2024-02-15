@@ -1,0 +1,42 @@
+14:46:30.559 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________________________ *******
+14:46:30.565 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:46:30.696 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Setting Property Taxes to 0.25%  Per Year in the  'Taxes per year' inputbox  *******
+14:46:32.775 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ___________________________________________________ *******
+14:46:32.775 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Converting the percentage value to Rupees format *******
+14:46:32.806 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________________ *******
+14:46:32.806 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Returning the String that stored the final value in rupees format after calculation in the inputbox *******
+14:46:32.806 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________________ *******
+14:46:32.808 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Setting the values for Home Insurance Per Year inside the corresponding inputbox *******
+14:46:32.917 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________ *******
+14:46:32.917 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Clicking on the Rupees convertor button available on the webpage *******
+14:46:35.978 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________ *******
+14:46:36.002 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Returning the String that stored the final value in rupees from the inputbox *******
+14:46:36.002 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________ *******
+14:46:36.004 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the value foe Maintenance Expenses Per Month inputbox  *******
+14:46:36.128 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________________  *******
+14:46:36.131 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Reading the data into a EXCEL SHEET *******
+14:46:46.301 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________  *******
+14:48:13.483 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303447\git\SAMPLE\Hackathon_project\Smoke_Testing.xml
+
+14:48:21.108 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Initiating a serach input to the Google searchbox *******
+14:48:22.667 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _________________________________ *******
+14:48:22.667 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Clicking on Google Search button that appears after some input is provided to searchbar *******
+14:48:25.215 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ____________________________________ *******
+14:48:25.215 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Website on which we will test is opened *******
+14:48:31.796 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:48:31.796 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ================================================ *******
+14:48:31.996 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:48:31.997 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Click on CarLoan icon in the opening page to evaluate and also check UI  *******
+14:48:32.004 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****________________________________  *******
+14:48:32.005 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** All data are provided here through properties files  *******
+14:48:32.084 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  ______________________________*******
+14:48:32.364 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Clicking on the 'CALCULATORS ' text to show the dropdown and navigate to Calculator Main Page  *******
+14:48:32.364 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** __________________________________ *******
+14:48:41.028 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** =================================================  *******
+14:48:41.207 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Go to the next Page by clicking on the Calculators Dropdown *******
+14:48:41.207 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+14:48:41.208 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Click on the HLOAN CALCULATORS link showed in the dropdown  *******
+14:48:41.208 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ________________________________ *******
+14:48:41.208 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Navigated to the Loan Calculators Page for UI Testing  *******
+14:48:43.930 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ==================================================  *******

@@ -192,7 +192,7 @@ public class EMI_Calculator extends BasePage {
 		
 		
 		// method to read the interest amount and principal amount for one month
-		public void readData() {
+		public void readData() throws InterruptedException {
 	 
 			System.out.println("Car Loan");
 			System.out.println("Month" + "   " + "Interest Amount" + "   " + "Principal Amount");
@@ -210,7 +210,7 @@ public class EMI_Calculator extends BasePage {
 	 
 			System.out.println();
 			System.out.println("\n");
-	 
+			Thread.sleep(2000);	 
 		}
 	 	
 		
