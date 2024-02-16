@@ -121,7 +121,7 @@ public class EMI_Calculator extends BasePage {
 		CarLoan_main.click();
 		
 		
-		//use slider now
+		
 				
 		
 		
@@ -140,7 +140,16 @@ public class EMI_Calculator extends BasePage {
 	 // using pixels to control slider
 			actions.clickAndHold(CarloanSlider_main).moveByOffset(-sliderWidth/2, 0).moveByOffset(pixels, 0).release().perform();
 		}
-		
+		// mrthod to set interest rate
+		public void setInterestRate(String interest) {
+			 
+			int sliderWidth = interestSlider_main.getSize().width;
+	 // value is taken by parsing Float value inside a float data type
+			int pixels = sliderToMove(interestSlider_main, Float.parseFloat(interest), 20, 5);
+	 
+			actions.clickAndHold(interestSlider_main).moveByOffset(-sliderWidth/2, 0).moveByOffset(pixels, 0).release().perform();
+	 
+		}
 		// method to set the loan tenure
 		 
 		public void setLoanTenure(String tenure) {
@@ -166,7 +175,7 @@ public class EMI_Calculator extends BasePage {
 			// using unitary method to calculate accurate position
 			float tempPixels = sliderElement.getSize().width;
 			
-			
+			// tempPixels is used as a loccl variable for calculations
 			
 			tempPixels = tempPixels/(sliderMax-sliderMin);
 			tempPixels = tempPixels*((value)-sliderMin);
@@ -196,7 +205,7 @@ public class EMI_Calculator extends BasePage {
 	 
 			System.out.println("Car Loan");
 			System.out.println("Month" + "   " + "Interest Amount" + "   " + "Principal Amount");
-	 
+			System.out.println("\n");
 			int i=1;
 	 
 			for(WebElement element:listOfMonthInterestAndPrincipalAmountElements) {
@@ -214,9 +223,10 @@ public class EMI_Calculator extends BasePage {
 		}
 	 	
 		
-	public void page_reload()
+	public void page_reload() throws InterruptedException
 	{
 		driver.navigate().refresh();
+		Thread.sleep(2000);
 	}
 	
 	
@@ -229,7 +239,7 @@ public class EMI_Calculator extends BasePage {
 		fluentWait(HomeLoanCalculator_LINK);
 	
 		HomeLoanCalculator_LINK.click();
-		Thread.sleep(7000);
+		Thread.sleep(6000);
 		
 	}
 	

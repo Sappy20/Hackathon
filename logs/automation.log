@@ -1,5 +1,25 @@
-11:37:12.683 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________________ *******
-11:37:12.928 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** The final outcome is stored and validated after the calculation  *******
-11:37:12.963 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  AUTOMATION COMPLETED *******
-11:37:12.963 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****     ===================================================== *******
-11:37:12.963 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________________________________________ *******
+13:55:13.105 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Navigate to next Type of Calculator by clicking on the link *******
+13:55:13.110 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Clicking on the INTEREST CALCULATOR *******
+13:55:13.174 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ___________________________________ *******
+13:55:13.174 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** INTEREST CALCULATOR page is opened  *******
+13:55:13.174 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** =========================================================== *******
+13:55:13.475 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Working on the 4th Type of CALCULATOR *******
+13:55:13.476 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ****** INTEREST CALCULATOR page is opened  ******
+13:55:13.476 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ______________________________ *******
+13:55:13.476 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the LOAN amount in the inputbox   *******
+13:55:13.621 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the value stored in the inputbox  *******
+13:55:13.647 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________________ *******
+13:55:13.832 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the EMI Amount in the inputbox  *******
+13:55:13.964 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the value stored in the inputbox  *******
+13:55:13.984 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** ____________________________________________ *******
+13:55:14.186 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the years for which the LOAN is applied for  *******
+13:55:14.394 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validation of value inside the inputbox  *******
+13:55:14.424 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** __________________________________________ *******
+13:55:14.605 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  *******
+13:55:14.605 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Providing the amount for FEES and CHARGES inside the inputbox  *******
+13:55:14.793 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** Validating the  value inside the unputbox  *******
+13:55:14.824 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _____________________________________ *******
+13:55:15.004 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** The final outcome is stored and validated after the calculation  *******
+13:55:15.026 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****  AUTOMATION COMPLETED *******
+13:55:15.026 [main] INFO  TestCases.UI_CheckForInterestRATECalc - *****     ===================================================== *******
+13:55:15.027 [main] INFO  TestCases.UI_CheckForInterestRATECalc - ***** _______________________________________________________________ *******
